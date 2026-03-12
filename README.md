@@ -12,13 +12,13 @@ QUNTIFYING & OBJECTIFYING SOCIAL SCIENCE, ETHICS, LAW & JUSTICE
 
 ------------------------------------------------------------------------------
 ## REFERECNES & RESOURCES
-https://github.com/gouravgope/gouravgope##
-https://www.linkedin.com/in/gouravgope/#
-https://medium.com/@gouravgope##
-https://medium.com/@gonnection#
+1. https://github.com/gouravgope/gouravgope##
+2. https://www.linkedin.com/in/gouravgope/#
+3. https://medium.com/@gouravgope##
+   https://medium.com/@gonnection#
 ----------
-https://linktr.ee/gouravgope#
+1. https://linktr.ee/gouravgope#
 ----------
-https://www.versytalks.com/profile/gouravgope##
+2. https://www.versytalks.com/profile/gouravgope##
 --------
-https://engineersechelon.blogspot.com/#
+3. https://engineersechelon.blogspot.com/#

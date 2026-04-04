@@ -9,14 +9,15 @@ QUNTIFYING & OBJECTIFYING SOCIAL SCIENCE, ETHICS, LAW & JUSTICE
 5. JSD : JUSTICE SYSTEM DESIGN
 
 ------------------------------------------------------------------------------
-## REFERECNES & RESOURCES
+## CONNECTION, REFERECNES & RESOURCES
 1. https://github.com/gouravgope/gouravgope##
 2. https://www.linkedin.com/in/gouravgope/#
 3. https://medium.com/@gouravgope##
    https://medium.com/@gonnection#
-----------
+LINKTREE
 1. https://linktr.ee/gouravgope#
-----------
+VERSYTALKS
 2. https://www.versytalks.com/profile/gouravgope##
---------
+ENGINEERSECHELON
 3. https://engineersechelon.blogspot.com/#
+SHASTRARTHA

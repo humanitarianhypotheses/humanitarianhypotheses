@@ -16,6 +16,8 @@ Conscience of LHD [ LIBERTY ( PERMISSION), HISTORY & DUTY( ETHICS & DHARMA)) SEP
 
 Western philosophies are more about rights like liberty & Eastern Philosophies and Religions are more about Duty.
 
+2. Ability to PREDICT (INCLUDING PROBABILITY)IS THE MOST INTELLIGENT FEATURE OF A CONSCIOUS OBJECT. 
+
 ------------------------------------------------------------------------------
 ## CONNECTION, REFERECNES & RESOURCES
 1. https://github.com/gouravgope/gouravgope##

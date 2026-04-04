@@ -3,10 +3,12 @@ QUNTIFYING & OBJECTIFYING SOCIAL SCIENCE, ETHICS, LAW & JUSTICE
 -------------------------------------------------------------------------------
 ## TERMS USED
 1. PTDEJ : PRINCIPALS OF TRUTH, DEBATE, ETHICS & JUSTICE
-2. PSD : POLITICAL SYSTEM DESIGN
-3. LSD : LEGAL SYSTEM DESIGN
-4. ESD : ETHICAL SYSTEM DESIGN
-5. JSD : JUSTICE SYSTEM DESIGN
+https://github.com/humanitarianhypotheses/ptdej#
+3. PSD : POLITICAL SYSTEM DESIGN
+4. LSD : LEGAL SYSTEM DESIGN
+5. ESD : ETHICAL SYSTEM DESIGN
+6. JSD : JUSTICE SYSTEM DESIGN
+https://github.com/humanitarianhypotheses/justice##
 
 ------------------------------------------------------------------------------
 ## CONNECTION, REFERECNES & RESOURCES

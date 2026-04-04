@@ -9,6 +9,12 @@ https://github.com/humanitarianhypotheses/ptdej#
 5. ESD : ETHICAL SYSTEM DESIGN
 6. JSD : JUSTICE SYSTEM DESIGN
 https://github.com/humanitarianhypotheses/justice##
+-------------------------------------------------------------------------------
+# APBF FOR HH
+1. AXIOM
+Conscience of LHD [ LIBERTY ( PERMISSION), HISTORY & DUTY( ETHICS & DHARMA)) SEPARATES HUMANS FROM NHA ( NON HUMAN ANIMALS) AS PER OUR LIMITED KNOWLEDGE OF UNIVERSE IN MATERIALISTIC REALM.
+
+Western philosophies are more about rights like liberty & Eastern Philosophies and Religions are more about Duty.
 
 ------------------------------------------------------------------------------
 ## CONNECTION, REFERECNES & RESOURCES

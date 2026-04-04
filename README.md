@@ -1,14 +1,11 @@
 ##HUMANITARIAN HYPOTHESE A.K.A [ HUMANITARIAN HYPOTHESIS & HUMAITARIAN THERORY]
 QUNTIFYING & OBJECTIFYING SOCIAL SCIENCE, ETHICS, LAW & JUSTICE
-
-
-
-
-
-
-
-
-
+-------------------------------------------------------------------------------
+## TERMS USED
+PTDEJ : PRINCIPALS OF TRUTH, DEBATE, ETHICS & JUSTICE
+PSD : POLITICAL SYSTEM DESIGN
+LSD : LEGAL SYSTEM DESIGN
+JSD : JUSTICE SYSTEM DESIGN
 
 ------------------------------------------------------------------------------
 ## REFERECNES & RESOURCES
